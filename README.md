@@ -8,7 +8,7 @@
 
 ## 시연 영상
 
-![유튜브 영상 보기](http://img.youtube.com/vi/sCYu9smRHfA/hqdefault.jpg)
+![유튜브 영상 보기]([http://img.youtube.com/vi/sCYu9smRHfA/maxresdefault.jpg)]([http://img.youtube.com/vi/sCYu9smRHfA/maxresdefault.jpg)]([https://www.youtube.com/watch?v=sCYu9smRHfA](https://www.youtube.com/watch?v=sCYu9smRHfA)](http://img.youtube.com/vi/sCYu9smRHfA/maxresdefault.jpg)]([https://www.youtube.com/watch?v=sCYu9smRHfA](https://www.youtube.com/watch?v=sCYu9smRHfA))))([https://www.youtube.com/watch?v=sCYu9smRHfA](https://www.youtube.com/watch?v=sCYu9smRHfA))
 
 > 위 이미지를 클릭하면 유튜브에서 시연 영상을 볼 수 있습니다.
 
