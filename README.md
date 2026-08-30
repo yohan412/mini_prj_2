@@ -8,15 +8,7 @@
 
 ## 시연 영상
 
-
-
-<a href="[https://www.youtube.com/watch?v=sCYu9smRHfA](https://www.youtube.com/watch?v=sCYu9smRHfA)" target="_blank">
-
-  <img src="[https://i.ytimg.com/vi/sCYu9smRHfA/hqdefault.jpg](https://i.ytimg.com/vi/sCYu9smRHfA/hqdefault.jpg)" alt="시연 영상" width="600" />
-
-</a>
-
-
+![유튜브 영상 보기](./docs/thumbnail1.png)
 
 > 위 이미지를 클릭하면 유튜브에서 시연 영상을 볼 수 있습니다.
 
@@ -46,6 +38,8 @@ git clone https://github.com/robot-e0509/box-sorter.git doosan_ws
 cd doosan_ws && colcon build --symlink-install && source install/setup.bash
 ```
 
+
+
 ## 저장소 구조
 
 ```
@@ -63,6 +57,8 @@ doosan_ws/
     ├── yh/                       OCR · 핸드-아이 캘리브레이션 (라벨 인식 · 클릭 이동)
     └── dynamic_grasp_force_with_width/  폭·무게 기반 동적 파지 강도 계산 · 실험 기록
 ```
+
+
 
 ## 프로젝트 목표
 
