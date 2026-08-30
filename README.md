@@ -8,11 +8,15 @@
 
 ## 시연 영상
 
+
+
 <a href="[https://www.youtube.com/watch?v=sCYu9smRHfA](https://www.youtube.com/watch?v=sCYu9smRHfA)" target="_blank">
 
-  <img src="[https://img.youtube.com/vi/sCYu9smRHfA/hqdefault.jpg](https://img.youtube.com/vi/sCYu9smRHfA/hqdefault.jpg)" alt="시연 영상" width="100%" />
+  <img src="[https://i.ytimg.com/vi/sCYu9smRHfA/hqdefault.jpg](https://i.ytimg.com/vi/sCYu9smRHfA/hqdefault.jpg)" alt="시연 영상" width="600" />
 
 </a>
+
+
 
 > 위 이미지를 클릭하면 유튜브에서 시연 영상을 볼 수 있습니다.
 
